@@ -1,0 +1,179 @@
+{
+  "playlistId": 1,
+  "playlistName": "my_playlist",
+  "createdAt": "2026-06-20T15:29:00.870Z",
+  "total": 19,
+  "tracks": [
+    {
+      "trackId": 1,
+      "artist": "Bob Marley",
+      "title": "Jamming",
+      "name": "Bob%20Marley%20-%20Jamming.m4a",
+      "size": 3455080,
+      "type": "audio/mp4",
+      "duration": 213.437823
+    },
+    {
+      "trackId": 2,
+      "artist": "Francisco Cespedes",
+      "title": "Todo es un misterio",
+      "name": "Francisco%20Cespedes%20-%20Todo%20es%20un%20misterio.m4a",
+      "size": 3620674,
+      "type": "audio/mp4",
+      "duration": 223.573333
+    },
+    {
+      "trackId": 3,
+      "artist": "Grupo Río",
+      "title": "Todo estaba bien",
+      "name": "Grupo%20R%C3%ADo%20-%20Todo%20estaba%20bien.m4a",
+      "size": 4703219,
+      "type": "audio/mp4",
+      "duration": 290.48
+    },
+    {
+      "trackId": 4,
+      "artist": "Justin Hurwitz",
+      "title": "Fletcher's song in club",
+      "name": "Justin%20Hurwitz%20-%20Fletcher's%20song%20in%20club.m4a",
+      "size": 1443906,
+      "type": "audio/mp4",
+      "duration": 89.026666
+    },
+    {
+      "trackId": 5,
+      "artist": "Mar de Copas",
+      "title": "Suna",
+      "name": "Mar%20de%20Copas%20-%20Suna.m4a",
+      "size": 4220820,
+      "type": "audio/mp4",
+      "duration": 260.693333
+    },
+    {
+      "trackId": 6,
+      "artist": "Mar de Copas",
+      "title": "Un día sin sexo",
+      "name": "Mar%20de%20Copas%20-%20Un%20d%C3%ADa%20sin%20sexo.m4a",
+      "size": 4451668,
+      "type": "audio/mp4",
+      "duration": 248.523174
+    },
+    {
+      "trackId": 7,
+      "artist": "Michael Sembello",
+      "title": "Maniac",
+      "name": "Michael%20Sembello%20-%20Maniac.m4a",
+      "size": 3962919,
+      "type": "audio/mp4",
+      "duration": 244.706666
+    },
+    {
+      "trackId": 8,
+      "artist": "Miranda",
+      "title": "Tu misterioso alguien",
+      "name": "Miranda%20-%20Tu%20misterioso%20alguien.m4a",
+      "size": 3945898,
+      "type": "audio/mp4",
+      "duration": 243.653333
+    },
+    {
+      "trackId": 9,
+      "artist": "Nino Segarra",
+      "title": "Como amigo si, como amante no",
+      "name": "Nino%20Segarra%20-%20Como%20amigo%20si%2C%20como%20amante%20no.m4a",
+      "size": 4634180,
+      "type": "audio/mp4",
+      "duration": 286.30204
+    },
+    {
+      "trackId": 10,
+      "artist": "Nino Segarra",
+      "title": "Entre la espada y la pared",
+      "name": "Nino%20Segarra%20-%20Entre%20la%20espada%20y%20la%20pared.m4a",
+      "size": 5570761,
+      "type": "audio/mp4",
+      "duration": 344.166167
+    },
+    {
+      "trackId": 11,
+      "artist": "Nino Segarra",
+      "title": "Porque te amo",
+      "name": "Nino%20Segarra%20-%20Porque%20te%20amo.mp3",
+      "size": 7369175,
+      "type": "audio/mpeg",
+      "duration": 306.99102
+    },
+    {
+      "trackId": 12,
+      "artist": "Orlando Netti",
+      "title": "Clásico",
+      "name": "Orlando%20Netti%20-%20Cl%C3%A1sico.mp3",
+      "size": 9699412,
+      "type": "audio/mpeg",
+      "duration": 241.085166
+    },
+    {
+      "trackId": 13,
+      "artist": "Orquesta Inmensidad",
+      "title": "Ay! que amor",
+      "name": "Orquesta%20Inmensidad%20-%20Ay!%20que%20amor.m4a",
+      "size": 3790233,
+      "type": "audio/mp4",
+      "duration": 234.053333
+    },
+    {
+      "trackId": 14,
+      "artist": "Pedro Arroyo",
+      "title": "Todo me huele a ti",
+      "name": "Pedro%20Arroyo%20-%20Todo%20me%20huele%20a%20ti.m4a",
+      "size": 5213410,
+      "type": "audio/mp4",
+      "duration": 322.08399
+    },
+    {
+      "trackId": 15,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "Te siento de sólo pensar",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Te%20siento%20de%20s%C3%B3lo%20pensar.m4a",
+      "size": 3276501,
+      "type": "audio/mp4",
+      "duration": 202.408344
+    },
+    {
+      "trackId": 16,
+      "artist": "Pet Shop Boys",
+      "title": "Always on my mind",
+      "name": "Pet%20Shop%20Boys%20-%20Always%20on%20my%20mind.m4a",
+      "size": 3804366,
+      "type": "audio/mp4",
+      "duration": 234.906666
+    },
+    {
+      "trackId": 17,
+      "artist": "Soda Stereo",
+      "title": "Trátame suavemente",
+      "name": "Soda%20Stereo%20-%20Tr%C3%A1tame%20suavemente.m4a",
+      "size": 3276968,
+      "type": "audio/mp4",
+      "duration": 202.431564
+    },
+    {
+      "trackId": 18,
+      "artist": "Virus",
+      "title": "Sin disfraz",
+      "name": "Virus%20-%20Sin%20disfraz.m4a",
+      "size": 5346460,
+      "type": "audio/mp4",
+      "duration": 330.303854
+    },
+    {
+      "trackId": 19,
+      "artist": "Willie Gonzalez",
+      "title": "Hazme olvidarla",
+      "name": "Willie%20Gonzalez%20-%20Hazme%20olvidarla.m4a",
+      "size": 5442560,
+      "type": "audio/mp4",
+      "duration": 336.133333
+    }
+  ]
+}

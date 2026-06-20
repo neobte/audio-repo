@@ -1,0 +1,197 @@
+{
+  "playlistId": 1,
+  "playlistName": "rock",
+  "createdAt": "2026-06-20T15:28:05.079Z",
+  "total": 21,
+  "tracks": [
+    {
+      "trackId": 1,
+      "artist": "Arena Hash",
+      "title": "Cómo te va mi amor",
+      "name": "Arena%20Hash%20-%20Co%CC%81mo%20te%20va%20mi%20amor.m4a",
+      "size": 5334819,
+      "type": "audio/mp4",
+      "duration": 329.584036
+    },
+    {
+      "trackId": 2,
+      "artist": "Arena Hash",
+      "title": "Mil horas de amor",
+      "name": "Arena%20Hash%20-%20Mil%20horas%20de%20amor.m4a",
+      "size": 1992799,
+      "type": "audio/mp4",
+      "duration": 123.088979
+    },
+    {
+      "trackId": 3,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "Alguien que bese como tú",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Alguien%20que%20bese%20como%20t%C3%BA.m4a",
+      "size": 3408891,
+      "type": "audio/mp4",
+      "duration": 210.581768
+    },
+    {
+      "trackId": 4,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "Como las mariposas",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Como%20las%20mariposas.m4a",
+      "size": 3811679,
+      "type": "audio/mp4",
+      "duration": 235.47356
+    },
+    {
+      "trackId": 5,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "Cuéntame",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Cu%C3%A9ntame.m4a",
+      "size": 3774128,
+      "type": "audio/mp4",
+      "duration": 233.151564
+    },
+    {
+      "trackId": 6,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "Me elevé",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Me%20elev%C3%A9.m4a",
+      "size": 3567100,
+      "type": "audio/mp4",
+      "duration": 220.357369
+    },
+    {
+      "trackId": 7,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "Me resfrié en Brasil",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Me%20resfrie%CC%81%20en%20Brasil.m4a",
+      "size": 3729441,
+      "type": "audio/mp4",
+      "duration": 230.38839
+    },
+    {
+      "trackId": 8,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "No llores más",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20No%20llores%20m%C3%A1s.m4a",
+      "size": 3816890,
+      "type": "audio/mp4",
+      "duration": 235.68
+    },
+    {
+      "trackId": 9,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "No pensé que era amor",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20No%20pens%C3%A9%20que%20era%20amor.m4a",
+      "size": 3773625,
+      "type": "audio/mp4",
+      "duration": 233.04
+    },
+    {
+      "trackId": 10,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "Sentimiento increíble",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Sentimiento%20incre%C3%ADble.m4a",
+      "size": 3340055,
+      "type": "audio/mp4",
+      "duration": 206.332517
+    },
+    {
+      "trackId": 11,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "Si escuchas a un ángel",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Si%20escuchas%20a%20un%20%C3%A1ngel.m4a",
+      "size": 2938353,
+      "type": "audio/mp4",
+      "duration": 181.44
+    },
+    {
+      "trackId": 12,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "Sé que todo ha acabado ya",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20S%C3%A9%20que%20todo%20ha%20acabado%20ya.m4a",
+      "size": 3568978,
+      "type": "audio/mp4",
+      "duration": 220.473469
+    },
+    {
+      "trackId": 13,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "Talk show",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Talk%20show.m4a",
+      "size": 5741049,
+      "type": "audio/mp4",
+      "duration": 354.573333
+    },
+    {
+      "trackId": 14,
+      "artist": "Pedro Suárez Vértiz",
+      "title": "Te siento de sólo pensar",
+      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Te%20siento%20de%20s%C3%B3lo%20pensar.m4a",
+      "size": 3276501,
+      "type": "audio/mp4",
+      "duration": 202.408344
+    },
+    {
+      "trackId": 15,
+      "artist": "Virus",
+      "title": "Amor descartable",
+      "name": "Virus%20-%20Amor%20descartable.m4a",
+      "size": 3432173,
+      "type": "audio/mp4",
+      "duration": 212.021405
+    },
+    {
+      "trackId": 16,
+      "artist": "Virus",
+      "title": "Dame una señal",
+      "name": "Virus%20-%20Dame%20una%20se%C3%B1al.m4a",
+      "size": 3858904,
+      "type": "audio/mp4",
+      "duration": 238.399274
+    },
+    {
+      "trackId": 17,
+      "artist": "Virus",
+      "title": "Imágenes paganas",
+      "name": "Virus%20-%20Im%C3%A1genes%20paganas.m4a",
+      "size": 4381055,
+      "type": "audio/mp4",
+      "duration": 270.651791
+    },
+    {
+      "trackId": 18,
+      "artist": "Virus",
+      "title": "Luna de miel en la mano",
+      "name": "Virus%20-%20Luna%20de%20miel%20en%20la%20mano.m4a",
+      "size": 5147578,
+      "type": "audio/mp4",
+      "duration": 318.020498
+    },
+    {
+      "trackId": 19,
+      "artist": "Virus",
+      "title": "Polvos de una relación",
+      "name": "Virus%20-%20Polvos%20de%20una%20relaci%C3%B3n.m4a",
+      "size": 3549995,
+      "type": "audio/mp4",
+      "duration": 219.312471
+    },
+    {
+      "trackId": 20,
+      "artist": "Virus",
+      "title": "Pronta entrega",
+      "name": "Virus%20-%20Pronta%20entrega.m4a",
+      "size": 4449684,
+      "type": "audio/mp4",
+      "duration": 274.901043
+    },
+    {
+      "trackId": 21,
+      "artist": "Virus",
+      "title": "Sin disfraz",
+      "name": "Virus%20-%20Sin%20disfraz.m4a",
+      "size": 5346369,
+      "type": "audio/mp4",
+      "duration": 330.303854
+    }
+  ]
+}
