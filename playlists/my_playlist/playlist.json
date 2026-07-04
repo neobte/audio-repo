@@ -1,7 +1,7 @@
 {
   "playlistId": 1,
   "playlistName": "my_playlist",
-  "createdAt": "2026-07-04T15:35:15.242Z",
+  "createdAt": "2026-07-04T15:51:25.932Z",
   "total": 18,
   "tracks": [
     {
@@ -25,8 +25,8 @@
     {
       "trackId": 3,
       "artist": "Gianluca Grignani",
-      "title": "Mi historia entre tus dedos",
-      "name": "Gianluca%20Grignani%20-%20Mi%20historia%20entre%20tus%20dedos.m4a",
+      "title": "Mi Historia Entre Tus Dedos",
+      "name": "Gianluca%20Grignani%20-%20Mi%20Historia%20Entre%20Tus%20Dedos.m4a",
       "size": 4958576,
       "type": "audio/x-m4a",
       "duration": 306.340862
@@ -133,8 +133,8 @@
     {
       "trackId": 15,
       "artist": "Pet Shop Boys",
-      "title": "Always on my mind",
-      "name": "Pet%20Shop%20Boys%20-%20Always%20on%20my%20mind.m4a",
+      "title": "Always On My Mind",
+      "name": "Pet%20Shop%20Boys%20-%20Always%20On%20My%20Mind.m4a",
       "size": 3804366,
       "type": "audio/x-m4a",
       "duration": 234.906667
