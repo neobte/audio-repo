@@ -1,8 +1,7 @@
 {
   "playlistId": 1,
-  "playlistName": "my_playlist",
-  "createdAt": "2026-08-01T04:18:15.587Z",
-  "total": 20,
+  "createdAt": "2026-08-21T16:35:29.878Z",
+  "total": 18,
   "tracks": [
     {
       "id": 1,
@@ -69,15 +68,6 @@
     },
     {
       "id": 8,
-      "artist": "Mar de Copas",
-      "title": "Un Día Sin Sexo",
-      "name": "Mar%20de%20Copas%20-%20Un%20D%C3%ADa%20Sin%20Sexo.m4a",
-      "size": 4451668,
-      "type": "audio/mp4",
-      "duration": 248.523174
-    },
-    {
-      "id": 9,
       "artist": "Michael Sembello",
       "title": "Maniac",
       "name": "Michael%20Sembello%20-%20Maniac.m4a",
@@ -86,7 +76,7 @@
       "duration": 244.706666
     },
     {
-      "id": 10,
+      "id": 9,
       "artist": "Miranda",
       "title": "Tu Misterioso Alguien",
       "name": "Miranda%20-%20Tu%20Misterioso%20Alguien.m4a",
@@ -95,7 +85,7 @@
       "duration": 243.653333
     },
     {
-      "id": 11,
+      "id": 10,
       "artist": "Nino Segarra",
       "title": "Como Amigo Si, Como Amante No",
       "name": "Nino%20Segarra%20-%20Como%20Amigo%20Si%2C%20Como%20Amante%20No.m4a",
@@ -104,7 +94,7 @@
       "duration": 286.30204
     },
     {
-      "id": 12,
+      "id": 11,
       "artist": "Nino Segarra",
       "title": "Entre La Espada y La Pared",
       "name": "Nino%20Segarra%20-%20Entre%20La%20Espada%20y%20La%20Pared.m4a",
@@ -113,7 +103,7 @@
       "duration": 344.166167
     },
     {
-      "id": 13,
+      "id": 12,
       "artist": "Orlando Netti",
       "title": "Clásico",
       "name": "Orlando%20Netti%20-%20Cl%C3%A1sico.m4a",
@@ -122,7 +112,7 @@
       "duration": 241.085147
     },
     {
-      "id": 14,
+      "id": 13,
       "artist": "Orquesta Inmensidad",
       "title": "Ay! Que Amor",
       "name": "Orquesta%20Inmensidad%20-%20Ay!%20Que%20Amor.m4a",
@@ -131,7 +121,7 @@
       "duration": 234.053333
     },
     {
-      "id": 15,
+      "id": 14,
       "artist": "Pedro Suárez Vértiz",
       "title": "Te Siento De Sólo Pensar",
       "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Te%20Siento%20De%20S%C3%B3lo%20Pensar.m4a",
@@ -140,7 +130,7 @@
       "duration": 202.408344
     },
     {
-      "id": 16,
+      "id": 15,
       "artist": "Pet Shop Boys",
       "title": "Always On My Mind",
       "name": "Pet%20Shop%20Boys%20-%20Always%20On%20My%20Mind.m4a",
@@ -149,25 +139,16 @@
       "duration": 234.906666
     },
     {
-      "id": 17,
+      "id": 16,
       "artist": "Q Lazzarus",
       "title": "Goodbye Horses",
       "name": "Q%20Lazzarus%20-%20Goodbye%20Horses.m4a",
-      "size": 7565118,
+      "size": 7565119,
       "type": "audio/mp4",
-      "duration": 317.033
+      "duration": 317.076
     },
     {
-      "id": 18,
-      "artist": "Soda Stereo",
-      "title": "Trátame Suavemente",
-      "name": "Soda%20Stereo%20-%20Tr%C3%A1tame%20Suavemente.m4a",
-      "size": 3276968,
-      "type": "audio/mp4",
-      "duration": 202.431564
-    },
-    {
-      "id": 19,
+      "id": 17,
       "artist": "Virus",
       "title": "Sin Disfraz",
       "name": "Virus%20-%20Sin%20Disfraz.m4a",
@@ -176,7 +157,7 @@
       "duration": 330.303854
     },
     {
-      "id": 20,
+      "id": 18,
       "artist": "Willie Gonzalez",
       "title": "Hazme Olvidarla",
       "name": "Willie%20Gonzalez%20-%20Hazme%20Olvidarla.m4a",
