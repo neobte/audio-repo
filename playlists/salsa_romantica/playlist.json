@@ -3,11 +3,11 @@
   "title": "En espera...",
   "description": "En espera...",
   "coverUrl": "./assets/covers/night-drive.jpg",
-  "createdAt": "2026-09-11T14:48:47.914Z",
+  "createdAt": "2026-09-11T15:28:10.698Z",
   "totalTracks": 53,
   "tracks": [
     {
-      "id": "track_001",
+      "id": 1,
       "artist": "3-2 Get Funky",
       "title": "Si Ya No Estás",
       "album": "",
@@ -17,7 +17,7 @@
       "durationSeconds": 268.608435
     },
     {
-      "id": "track_002",
+      "id": 2,
       "artist": "Amilcar Boscán",
       "title": "Faltaba Una Razón",
       "album": "",
@@ -27,7 +27,7 @@
       "durationSeconds": 268.283356
     },
     {
-      "id": "track_003",
+      "id": 3,
       "artist": "Antonio Cartagena",
       "title": "Si Tú No Estás",
       "album": "",
@@ -37,7 +37,7 @@
       "durationSeconds": 293.98204
     },
     {
-      "id": "track_004",
+      "id": 4,
       "artist": "Antonio Cartagena",
       "title": "Sin Ti",
       "album": "",
@@ -47,7 +47,7 @@
       "durationSeconds": 325.032925
     },
     {
-      "id": "track_005",
+      "id": 5,
       "artist": "Dan Den",
       "title": "Torbellino De Amor",
       "album": "",
@@ -57,7 +57,7 @@
       "durationSeconds": 307.959375
     },
     {
-      "id": "track_006",
+      "id": 6,
       "artist": "David Pabón",
       "title": "Aquel Viejo Motel",
       "album": "",
@@ -67,7 +67,7 @@
       "durationSeconds": 308.866666
     },
     {
-      "id": "track_007",
+      "id": 7,
       "artist": "Eddie Santiago",
       "title": "Antídoto y Veneno",
       "album": "",
@@ -77,7 +77,7 @@
       "durationSeconds": 318.453333
     },
     {
-      "id": "track_008",
+      "id": 8,
       "artist": "Eddie Santiago",
       "title": "Me Fallaste",
       "album": "",
@@ -87,7 +87,7 @@
       "durationSeconds": 303.159727
     },
     {
-      "id": "track_009",
+      "id": 9,
       "artist": "Eddie Santiago",
       "title": "Tú Me Haces Falta",
       "album": "",
@@ -97,7 +97,7 @@
       "durationSeconds": 281.51873
     },
     {
-      "id": "track_010",
+      "id": 10,
       "artist": "Frankie Ruiz ",
       "title": "Tú Con Él",
       "album": "",
@@ -107,7 +107,7 @@
       "durationSeconds": 301.487891
     },
     {
-      "id": "track_011",
+      "id": 11,
       "artist": "Frankie Ruiz",
       "title": "Lo Dudo",
       "album": "",
@@ -117,7 +117,7 @@
       "durationSeconds": 313.419125
     },
     {
-      "id": "track_012",
+      "id": 12,
       "artist": "Frankie Ruiz",
       "title": "Quiero Llenarte",
       "album": "",
@@ -127,7 +127,7 @@
       "durationSeconds": 271.27425
     },
     {
-      "id": "track_013",
+      "id": 13,
       "artist": "Frankie Ruiz",
       "title": "Si Te Entregas A Mi",
       "album": "",
@@ -137,7 +137,7 @@
       "durationSeconds": 300.5874
     },
     {
-      "id": "track_014",
+      "id": 14,
       "artist": "Frankie Ruiz",
       "title": "Y No Puedo",
       "album": "",
@@ -147,7 +147,7 @@
       "durationSeconds": 273.6029
     },
     {
-      "id": "track_015",
+      "id": 15,
       "artist": "Giro",
       "title": "Amor Lunático",
       "album": "",
@@ -157,7 +157,7 @@
       "durationSeconds": 301.8
     },
     {
-      "id": "track_016",
+      "id": 16,
       "artist": "Giro",
       "title": "El Pasajero",
       "album": "",
@@ -167,7 +167,7 @@
       "durationSeconds": 303.733333
     },
     {
-      "id": "track_017",
+      "id": 17,
       "artist": "Grupo Niche",
       "title": "Te Enseñaré A Olvidar",
       "album": "",
@@ -177,7 +177,7 @@
       "durationSeconds": 338.105759
     },
     {
-      "id": "track_018",
+      "id": 18,
       "artist": "Jhonny Rivera",
       "title": "Necesito Una Amiga",
       "album": "",
@@ -187,7 +187,7 @@
       "durationSeconds": 312.470929
     },
     {
-      "id": "track_019",
+      "id": 19,
       "artist": "Johnny Rivera",
       "title": "Por Eso Está Conmigo",
       "album": "",
@@ -197,7 +197,7 @@
       "durationSeconds": 278.639455
     },
     {
-      "id": "track_020",
+      "id": 20,
       "artist": "Johnny Rojas",
       "title": "Adicto A Ti",
       "album": "",
@@ -207,7 +207,7 @@
       "durationSeconds": 326.00814
     },
     {
-      "id": "track_021",
+      "id": 21,
       "artist": "La Misma Gente",
       "title": "Llegaste Tú",
       "album": "",
@@ -217,7 +217,7 @@
       "durationSeconds": 266.631836
     },
     {
-      "id": "track_022",
+      "id": 22,
       "artist": "La Misma Gente",
       "title": "Llegó El Final",
       "album": "",
@@ -227,7 +227,7 @@
       "durationSeconds": 343.562448
     },
     {
-      "id": "track_023",
+      "id": 23,
       "artist": "La Misma Gente",
       "title": "Tú y Yo",
       "album": "",
@@ -237,7 +237,7 @@
       "durationSeconds": 282.331428
     },
     {
-      "id": "track_024",
+      "id": 24,
       "artist": "La Octava Dimensión",
       "title": "Nunca Cambies",
       "album": "",
@@ -247,7 +247,7 @@
       "durationSeconds": 276.226666
     },
     {
-      "id": "track_025",
+      "id": 25,
       "artist": "La Sabrosura Orquesta",
       "title": "Cuando Aparezca El Amor",
       "album": "",
@@ -257,7 +257,7 @@
       "durationSeconds": 283.445986
     },
     {
-      "id": "track_026",
+      "id": 26,
       "artist": "Lalo Rodríguez",
       "title": "Ven Devórame Otra Vez",
       "album": "",
@@ -267,7 +267,7 @@
       "durationSeconds": 311.518911
     },
     {
-      "id": "track_027",
+      "id": 27,
       "artist": "Los Hermanos Moreno",
       "title": "No Hay Motivo",
       "album": "",
@@ -277,7 +277,7 @@
       "durationSeconds": 298.536984
     },
     {
-      "id": "track_028",
+      "id": 28,
       "artist": "Los Hermanos Moreno",
       "title": "Un Hombre Busca Una Mujer",
       "album": "",
@@ -287,7 +287,7 @@
       "durationSeconds": 298.788571
     },
     {
-      "id": "track_029",
+      "id": 29,
       "artist": "Los Titanes",
       "title": "Diré Que Te Amo",
       "album": "",
@@ -297,7 +297,7 @@
       "durationSeconds": 266.183129
     },
     {
-      "id": "track_030",
+      "id": 30,
       "artist": "Los Titanes",
       "title": "En Trance",
       "album": "",
@@ -307,7 +307,7 @@
       "durationSeconds": 238.762698
     },
     {
-      "id": "track_031",
+      "id": 31,
       "artist": "Los Titanes",
       "title": "Sobredosis",
       "album": "",
@@ -317,7 +317,7 @@
       "durationSeconds": 249.878639
     },
     {
-      "id": "track_032",
+      "id": 32,
       "artist": "Luis Enrique, Hansel y Raúl",
       "title": "Ella",
       "album": "",
@@ -327,7 +327,7 @@
       "durationSeconds": 348.6
     },
     {
-      "id": "track_033",
+      "id": 33,
       "artist": "Nino Segarra",
       "title": "Como Amigo Si, Como Amante No",
       "album": "",
@@ -337,7 +337,7 @@
       "durationSeconds": 294.08
     },
     {
-      "id": "track_034",
+      "id": 34,
       "artist": "Nino Segarra",
       "title": "Entre La Espada y La Pared",
       "album": "",
@@ -347,7 +347,7 @@
       "durationSeconds": 337.664807
     },
     {
-      "id": "track_035",
+      "id": 35,
       "artist": "Nino Segarra",
       "title": "Porque Te Amo",
       "album": "",
@@ -357,7 +357,7 @@
       "durationSeconds": 306.826666
     },
     {
-      "id": "track_036",
+      "id": 36,
       "artist": "Orquesta Inmensidad",
       "title": "Ay! Que Amor",
       "album": "",
@@ -367,7 +367,7 @@
       "durationSeconds": 234.053333
     },
     {
-      "id": "track_037",
+      "id": 37,
       "artist": "Paquito Guzmán",
       "title": "Qué Voy A Hacer Sin Ti",
       "album": "",
@@ -377,7 +377,7 @@
       "durationSeconds": 332.644331
     },
     {
-      "id": "track_038",
+      "id": 38,
       "artist": "Puerto Rican Power",
       "title": "Solo Con Un Beso",
       "album": "",
@@ -387,7 +387,7 @@
       "durationSeconds": 296.693333
     },
     {
-      "id": "track_039",
+      "id": 39,
       "artist": "Ralphy Santi & Tito Allen",
       "title": "Como Tú",
       "album": "",
@@ -397,7 +397,7 @@
       "durationSeconds": 356.64
     },
     {
-      "id": "track_040",
+      "id": 40,
       "artist": "Ray Sepúlveda",
       "title": "Una Mujer Como Tú",
       "album": "",
@@ -407,7 +407,7 @@
       "durationSeconds": 289.274195
     },
     {
-      "id": "track_041",
+      "id": 41,
       "artist": "Rey Ruiz",
       "title": "Luna Negra",
       "album": "",
@@ -417,7 +417,7 @@
       "durationSeconds": 289.483174
     },
     {
-      "id": "track_042",
+      "id": 42,
       "artist": "Rey Ruiz",
       "title": "Mi Media Mitad",
       "album": "",
@@ -427,7 +427,7 @@
       "durationSeconds": 293.500226
     },
     {
-      "id": "track_043",
+      "id": 43,
       "artist": "Rubby Haddock and Orchestra",
       "title": "Todo Me Huele A Ti",
       "album": "",
@@ -437,7 +437,7 @@
       "durationSeconds": 323.16
     },
     {
-      "id": "track_044",
+      "id": 44,
       "artist": "Salsa Kids",
       "title": "Siempre",
       "album": "",
@@ -447,7 +447,7 @@
       "durationSeconds": 301.583673
     },
     {
-      "id": "track_045",
+      "id": 45,
       "artist": "The New York Band",
       "title": "Nadie Como Tú",
       "album": "",
@@ -457,7 +457,7 @@
       "durationSeconds": 287.370158
     },
     {
-      "id": "track_046",
+      "id": 46,
       "artist": "Tony Vega",
       "title": "Ella Es",
       "album": "",
@@ -467,7 +467,7 @@
       "durationSeconds": 296.765147
     },
     {
-      "id": "track_047",
+      "id": 47,
       "artist": "Tony Vega",
       "title": "Lo Mío Es Amor",
       "album": "",
@@ -477,7 +477,7 @@
       "durationSeconds": 309.800634
     },
     {
-      "id": "track_048",
+      "id": 48,
       "artist": "Viti Ruiz",
       "title": "Caricias Prohibidas",
       "album": "",
@@ -487,7 +487,7 @@
       "durationSeconds": 319.018956
     },
     {
-      "id": "track_049",
+      "id": 49,
       "artist": "Willie González",
       "title": "Hazme Olvidarla",
       "album": "",
@@ -497,7 +497,7 @@
       "durationSeconds": 337.173333
     },
     {
-      "id": "track_050",
+      "id": 50,
       "artist": "Willie González",
       "title": "No Podrás Escapar De Mi",
       "album": "",
@@ -507,7 +507,7 @@
       "durationSeconds": 331.306666
     },
     {
-      "id": "track_051",
+      "id": 51,
       "artist": "Willie González",
       "title": "Pequeñas Cosas",
       "album": "",
@@ -517,7 +517,7 @@
       "durationSeconds": 289.297414
     },
     {
-      "id": "track_052",
+      "id": 52,
       "artist": "Willie González",
       "title": "Quiero Morir En Tu Piel",
       "album": "",
@@ -527,7 +527,7 @@
       "durationSeconds": 377.16
     },
     {
-      "id": "track_053",
+      "id": 53,
       "artist": "Willie González",
       "title": "Tanto Amor",
       "album": "",
