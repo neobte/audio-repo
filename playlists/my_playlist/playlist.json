@@ -1,160 +1,220 @@
 {
-  "playlistId": 1,
-  "createdAt": "2026-08-23T05:18:45.400Z",
-  "total": 17,
+  "id": "playlist_001",
+  "title": "En espera...",
+  "description": "En espera...",
+  "coverUrl": "./assets/covers/night-drive.jpg",
+  "createdAt": "2026-09-11T14:45:33.627Z",
+  "totalTracks": 21,
   "tracks": [
     {
-      "id": 1,
+      "id": "track_001",
+      "artist": "Beach House",
+      "title": "Space Song",
+      "album": "",
+      "audioUrl": "Beach%20House%20-%20Space%20Song.m4a",
+      "sizeBytes": 5187875,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 320.505034
+    },
+    {
+      "id": "track_002",
+      "artist": "Bob Marley",
+      "title": "Jamming",
+      "album": "",
+      "audioUrl": "Bob%20Marley%20-%20Jamming.m4a",
+      "sizeBytes": 3455080,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 213.437823
+    },
+    {
+      "id": "track_003",
       "artist": "Francisco Cespedes",
       "title": "Todo Es Un Misterio",
-      "name": "Francisco%20Cespedes%20-%20Todo%20Es%20Un%20Misterio.m4a",
-      "size": 3620674,
-      "type": "audio/mp4",
-      "duration": 223.573333
+      "album": "",
+      "audioUrl": "Francisco%20Cespedes%20-%20Todo%20Es%20Un%20Misterio.m4a",
+      "sizeBytes": 3620674,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 223.573333
     },
     {
-      "id": 2,
+      "id": "track_004",
       "artist": "Gianluca Grignani",
       "title": "Mi Historia Entre Tus Dedos",
-      "name": "Gianluca%20Grignani%20-%20Mi%20Historia%20Entre%20Tus%20Dedos.m4a",
-      "size": 4958576,
-      "type": "audio/mp4",
-      "duration": 306.340861
+      "album": "",
+      "audioUrl": "Gianluca%20Grignani%20-%20Mi%20Historia%20Entre%20Tus%20Dedos.m4a",
+      "sizeBytes": 4958576,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 306.340861
     },
     {
-      "id": 3,
+      "id": "track_005",
       "artist": "Grupo Río",
       "title": "Todo Estaba Bien",
-      "name": "Grupo%20R%C3%ADo%20-%20Todo%20Estaba%20Bien.m4a",
-      "size": 4703219,
-      "type": "audio/mp4",
-      "duration": 290.48
+      "album": "",
+      "audioUrl": "Grupo%20R%C3%ADo%20-%20Todo%20Estaba%20Bien.m4a",
+      "sizeBytes": 4703219,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 290.48
     },
     {
-      "id": 4,
+      "id": "track_006",
       "artist": "Justin Hurwitz",
       "title": "Fletcher's Song In Club",
-      "name": "Justin%20Hurwitz%20-%20Fletcher's%20Song%20In%20Club.m4a",
-      "size": 1443906,
-      "type": "audio/mp4",
-      "duration": 89.026666
+      "album": "",
+      "audioUrl": "Justin%20Hurwitz%20-%20Fletcher's%20Song%20In%20Club.m4a",
+      "sizeBytes": 1443906,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 89.026666
     },
     {
-      "id": 5,
+      "id": "track_007",
       "artist": "Mar de Copas",
       "title": "Suna",
-      "name": "Mar%20de%20Copas%20-%20Suna.m4a",
-      "size": 4220820,
-      "type": "audio/mp4",
-      "duration": 260.693333
+      "album": "",
+      "audioUrl": "Mar%20de%20Copas%20-%20Suna.m4a",
+      "sizeBytes": 4220820,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 260.693333
     },
     {
-      "id": 6,
+      "id": "track_008",
+      "artist": "Mar de Copas",
+      "title": "Un Día Sin Sexo",
+      "album": "",
+      "audioUrl": "Mar%20de%20Copas%20-%20Un%20D%C3%ADa%20Sin%20Sexo.m4a",
+      "sizeBytes": 4451668,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 248.523174
+    },
+    {
+      "id": "track_009",
       "artist": "Michael Sembello",
       "title": "Maniac",
-      "name": "Michael%20Sembello%20-%20Maniac.m4a",
-      "size": 3962919,
-      "type": "audio/mp4",
-      "duration": 244.706666
+      "album": "",
+      "audioUrl": "Michael%20Sembello%20-%20Maniac.m4a",
+      "sizeBytes": 3962919,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 244.706666
     },
     {
-      "id": 7,
+      "id": "track_010",
       "artist": "Miranda",
       "title": "Tu Misterioso Alguien",
-      "name": "Miranda%20-%20Tu%20Misterioso%20Alguien.m4a",
-      "size": 3945898,
-      "type": "audio/mp4",
-      "duration": 243.653333
+      "album": "",
+      "audioUrl": "Miranda%20-%20Tu%20Misterioso%20Alguien.m4a",
+      "sizeBytes": 3945898,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 243.653333
     },
     {
-      "id": 8,
+      "id": "track_011",
       "artist": "Nino Segarra",
       "title": "Como Amigo Si, Como Amante No",
-      "name": "Nino%20Segarra%20-%20Como%20Amigo%20Si%2C%20Como%20Amante%20No.m4a",
-      "size": 4634180,
-      "type": "audio/mp4",
-      "duration": 286.30204
+      "album": "",
+      "audioUrl": "Nino%20Segarra%20-%20Como%20Amigo%20Si%2C%20Como%20Amante%20No.m4a",
+      "sizeBytes": 4634180,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 286.30204
     },
     {
-      "id": 9,
+      "id": "track_012",
       "artist": "Nino Segarra",
       "title": "Entre La Espada y La Pared",
-      "name": "Nino%20Segarra%20-%20Entre%20La%20Espada%20y%20La%20Pared.m4a",
-      "size": 5570761,
-      "type": "audio/mp4",
-      "duration": 344.166167
+      "album": "",
+      "audioUrl": "Nino%20Segarra%20-%20Entre%20La%20Espada%20y%20La%20Pared.m4a",
+      "sizeBytes": 5570761,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 344.166167
     },
     {
-      "id": 10,
+      "id": "track_013",
       "artist": "Orlando Netti",
       "title": "Clásico",
-      "name": "Orlando%20Netti%20-%20Cl%C3%A1sico.m4a",
-      "size": 3904105,
-      "type": "audio/mp4",
-      "duration": 241.085147
+      "album": "",
+      "audioUrl": "Orlando%20Netti%20-%20Cl%C3%A1sico.m4a",
+      "sizeBytes": 3904105,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 241.085147
     },
     {
-      "id": 11,
+      "id": "track_014",
       "artist": "Orquesta Inmensidad",
       "title": "Ay! Que Amor",
-      "name": "Orquesta%20Inmensidad%20-%20Ay!%20Que%20Amor.m4a",
-      "size": 3790233,
-      "type": "audio/mp4",
-      "duration": 234.053333
+      "album": "",
+      "audioUrl": "Orquesta%20Inmensidad%20-%20Ay!%20Que%20Amor.m4a",
+      "sizeBytes": 3790233,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 234.053333
     },
     {
-      "id": 12,
+      "id": "track_015",
       "artist": "Pedro Suárez Vértiz",
       "title": "Te Siento De Sólo Pensar",
-      "name": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Te%20Siento%20De%20S%C3%B3lo%20Pensar.m4a",
-      "size": 3276501,
-      "type": "audio/mp4",
-      "duration": 202.408344
+      "album": "",
+      "audioUrl": "Pedro%20Su%C3%A1rez%20V%C3%A9rtiz%20-%20Te%20Siento%20De%20S%C3%B3lo%20Pensar.m4a",
+      "sizeBytes": 3276501,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 202.408344
     },
     {
-      "id": 13,
+      "id": "track_016",
       "artist": "Pet Shop Boys",
       "title": "Always On My Mind",
-      "name": "Pet%20Shop%20Boys%20-%20Always%20On%20My%20Mind.m4a",
-      "size": 3804366,
-      "type": "audio/mp4",
-      "duration": 234.906666
+      "album": "",
+      "audioUrl": "Pet%20Shop%20Boys%20-%20Always%20On%20My%20Mind.m4a",
+      "sizeBytes": 3804366,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 234.906666
     },
     {
-      "id": 14,
+      "id": "track_017",
       "artist": "Q Lazzarus",
       "title": "Goodbye Horses",
-      "name": "Q%20Lazzarus%20-%20Goodbye%20Horses.m4a",
-      "size": 7565119,
-      "type": "audio/mp4",
-      "duration": 317.076
+      "album": "",
+      "audioUrl": "Q%20Lazzarus%20-%20Goodbye%20Horses.m4a",
+      "sizeBytes": 7565119,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 317.076
     },
     {
-      "id": 15,
+      "id": "track_018",
+      "artist": "Soda Stereo",
+      "title": "Trátame Suavemente",
+      "album": "",
+      "audioUrl": "Soda%20Stereo%20-%20Tr%C3%A1tame%20Suavemente.m4a",
+      "sizeBytes": 3276968,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 202.431564
+    },
+    {
+      "id": "track_019",
       "artist": "Virus",
       "title": "Sin Disfraz",
-      "name": "Virus%20-%20Sin%20Disfraz.m4a",
-      "size": 5346460,
-      "type": "audio/mp4",
-      "duration": 330.303854
+      "album": "",
+      "audioUrl": "Virus%20-%20Sin%20Disfraz.m4a",
+      "sizeBytes": 5346460,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 330.303854
     },
     {
-      "id": 16,
+      "id": "track_020",
       "artist": "Walter Murphy",
       "title": "A Fifth Of Beethoven",
-      "name": "Walter%20Murphy%20-%20A%20Fifth%20Of%20Beethoven.mp3",
-      "size": 7352971,
-      "type": "audio/mpeg",
-      "duration": 183.816
+      "album": "",
+      "audioUrl": "Walter%20Murphy%20-%20A%20Fifth%20Of%20Beethoven.mp3",
+      "sizeBytes": 7352971,
+      "mimeType": "audio/mpeg",
+      "durationSeconds": 183.816
     },
     {
-      "id": 17,
+      "id": "track_021",
       "artist": "Willie Gonzalez",
       "title": "Hazme Olvidarla",
-      "name": "Willie%20Gonzalez%20-%20Hazme%20Olvidarla.m4a",
-      "size": 5442560,
-      "type": "audio/mp4",
-      "duration": 336.133333
+      "album": "",
+      "audioUrl": "Willie%20Gonzalez%20-%20Hazme%20Olvidarla.m4a",
+      "sizeBytes": 5442560,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 336.133333
     }
   ]
 }
