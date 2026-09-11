@@ -3,11 +3,11 @@
   "title": "En espera...",
   "description": "En espera...",
   "coverUrl": "./assets/covers/night-drive.jpg",
-  "createdAt": "2026-09-11T14:48:07.758Z",
+  "createdAt": "2026-09-11T15:32:03.907Z",
   "totalTracks": 21,
   "tracks": [
     {
-      "id": "track_001",
+      "id": 1,
       "artist": "Arena Hash",
       "title": "Cómo Te Va Mi Amor",
       "album": "",
@@ -17,7 +17,7 @@
       "durationSeconds": 329.584036
     },
     {
-      "id": "track_002",
+      "id": 2,
       "artist": "Arena Hash",
       "title": "Mil Horas De Amor",
       "album": "",
@@ -27,7 +27,7 @@
       "durationSeconds": 123.088979
     },
     {
-      "id": "track_003",
+      "id": 3,
       "artist": "Pedro Suárez Vértiz",
       "title": "Alguien Que Bese Como Tú",
       "album": "",
@@ -37,7 +37,7 @@
       "durationSeconds": 210.581768
     },
     {
-      "id": "track_004",
+      "id": 4,
       "artist": "Pedro Suárez Vértiz",
       "title": "Como Las Mariposas",
       "album": "",
@@ -47,7 +47,7 @@
       "durationSeconds": 235.47356
     },
     {
-      "id": "track_005",
+      "id": 5,
       "artist": "Pedro Suárez Vértiz",
       "title": "Cuéntame",
       "album": "",
@@ -57,7 +57,7 @@
       "durationSeconds": 233.151564
     },
     {
-      "id": "track_006",
+      "id": 6,
       "artist": "Pedro Suárez Vértiz",
       "title": "Me Elevé",
       "album": "",
@@ -67,7 +67,7 @@
       "durationSeconds": 220.357369
     },
     {
-      "id": "track_007",
+      "id": 7,
       "artist": "Pedro Suárez Vértiz",
       "title": "Me Resfrié En Brasil",
       "album": "",
@@ -77,7 +77,7 @@
       "durationSeconds": 230.38839
     },
     {
-      "id": "track_008",
+      "id": 8,
       "artist": "Pedro Suárez Vértiz",
       "title": "No Llores Más",
       "album": "",
@@ -87,7 +87,7 @@
       "durationSeconds": 235.68
     },
     {
-      "id": "track_009",
+      "id": 9,
       "artist": "Pedro Suárez Vértiz",
       "title": "No Pensé Que Era Amor",
       "album": "",
@@ -97,7 +97,7 @@
       "durationSeconds": 233.04
     },
     {
-      "id": "track_010",
+      "id": 10,
       "artist": "Pedro Suárez Vértiz",
       "title": "Sé Que Todo Ha Acabado Ya",
       "album": "",
@@ -107,7 +107,7 @@
       "durationSeconds": 220.473469
     },
     {
-      "id": "track_011",
+      "id": 11,
       "artist": "Pedro Suárez Vértiz",
       "title": "Sentimiento Increíble",
       "album": "",
@@ -117,7 +117,7 @@
       "durationSeconds": 206.332517
     },
     {
-      "id": "track_012",
+      "id": 12,
       "artist": "Pedro Suárez Vértiz",
       "title": "Si Escuchas A Un Ángel",
       "album": "",
@@ -127,7 +127,7 @@
       "durationSeconds": 181.44
     },
     {
-      "id": "track_013",
+      "id": 13,
       "artist": "Pedro Suárez Vértiz",
       "title": "Talk Show",
       "album": "",
@@ -137,7 +137,7 @@
       "durationSeconds": 354.573333
     },
     {
-      "id": "track_014",
+      "id": 14,
       "artist": "Pedro Suárez Vértiz",
       "title": "Te Siento De Sólo Pensar",
       "album": "",
@@ -147,7 +147,7 @@
       "durationSeconds": 202.408344
     },
     {
-      "id": "track_015",
+      "id": 15,
       "artist": "Virus",
       "title": "Amor Descartable",
       "album": "",
@@ -157,7 +157,7 @@
       "durationSeconds": 212.021405
     },
     {
-      "id": "track_016",
+      "id": 16,
       "artist": "Virus",
       "title": "Dame Una Señal",
       "album": "",
@@ -167,7 +167,7 @@
       "durationSeconds": 238.399274
     },
     {
-      "id": "track_017",
+      "id": 17,
       "artist": "Virus",
       "title": "Imágenes Paganas",
       "album": "",
@@ -177,7 +177,7 @@
       "durationSeconds": 270.651791
     },
     {
-      "id": "track_018",
+      "id": 18,
       "artist": "Virus",
       "title": "Luna De Miel En La Mano",
       "album": "",
@@ -187,7 +187,7 @@
       "durationSeconds": 318.020498
     },
     {
-      "id": "track_019",
+      "id": 19,
       "artist": "Virus",
       "title": "Polvos De Una Relación",
       "album": "",
@@ -197,7 +197,7 @@
       "durationSeconds": 219.312471
     },
     {
-      "id": "track_020",
+      "id": 20,
       "artist": "Virus",
       "title": "Pronta Entrega",
       "album": "",
@@ -207,7 +207,7 @@
       "durationSeconds": 274.901043
     },
     {
-      "id": "track_021",
+      "id": 21,
       "artist": "Virus",
       "title": "Sin Disfraz",
       "album": "",
