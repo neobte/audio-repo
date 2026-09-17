@@ -3,31 +3,11 @@
   "title": "En espera...",
   "description": "En espera...",
   "coverUrl": "./assets/covers/night-drive.jpg",
-  "createdAt": "2026-09-11T15:37:45.976Z",
-  "totalTracks": 22,
+  "createdAt": "2026-09-17T12:32:55.083Z",
+  "totalTracks": 18,
   "tracks": [
     {
       "id": 1,
-      "artist": "Beach House",
-      "title": "Space Song",
-      "album": "",
-      "audioUrl": "Beach%20House%20-%20Space%20Song.m4a",
-      "sizeBytes": 5187875,
-      "mimeType": "audio/mp4",
-      "durationSeconds": 320.505034
-    },
-    {
-      "id": 2,
-      "artist": "Bob Marley",
-      "title": "Jamming",
-      "album": "",
-      "audioUrl": "Bob%20Marley%20-%20Jamming.m4a",
-      "sizeBytes": 3455080,
-      "mimeType": "audio/mp4",
-      "durationSeconds": 213.437823
-    },
-    {
-      "id": 3,
       "artist": "Francisco Cespedes",
       "title": "Todo Es Un Misterio",
       "album": "",
@@ -37,7 +17,7 @@
       "durationSeconds": 223.573333
     },
     {
-      "id": 4,
+      "id": 2,
       "artist": "Gianluca Grignani",
       "title": "Mi Historia Entre Tus Dedos",
       "album": "",
@@ -47,7 +27,7 @@
       "durationSeconds": 306.340861
     },
     {
-      "id": 5,
+      "id": 3,
       "artist": "Grupo Río",
       "title": "Todo Estaba Bien",
       "album": "",
@@ -57,7 +37,7 @@
       "durationSeconds": 290.48
     },
     {
-      "id": 6,
+      "id": 4,
       "artist": "Justin Hurwitz",
       "title": "Fletcher's Song In Club",
       "album": "",
@@ -67,7 +47,7 @@
       "durationSeconds": 89.026666
     },
     {
-      "id": 7,
+      "id": 5,
       "artist": "Mar de Copas",
       "title": "Suna",
       "album": "",
@@ -77,17 +57,7 @@
       "durationSeconds": 260.693333
     },
     {
-      "id": 8,
-      "artist": "Mar de Copas",
-      "title": "Un Día Sin Sexo",
-      "album": "",
-      "audioUrl": "Mar%20de%20Copas%20-%20Un%20D%C3%ADa%20Sin%20Sexo.m4a",
-      "sizeBytes": 4451668,
-      "mimeType": "audio/mp4",
-      "durationSeconds": 248.523174
-    },
-    {
-      "id": 9,
+      "id": 6,
       "artist": "Michael Sembello",
       "title": "Maniac",
       "album": "",
@@ -97,7 +67,7 @@
       "durationSeconds": 244.706666
     },
     {
-      "id": 10,
+      "id": 7,
       "artist": "Miranda",
       "title": "Tu Misterioso Alguien",
       "album": "",
@@ -107,7 +77,7 @@
       "durationSeconds": 243.653333
     },
     {
-      "id": 11,
+      "id": 8,
       "artist": "Nino Segarra",
       "title": "Como Amigo Si, Como Amante No",
       "album": "",
@@ -117,7 +87,7 @@
       "durationSeconds": 286.30204
     },
     {
-      "id": 12,
+      "id": 9,
       "artist": "Nino Segarra",
       "title": "Entre La Espada y La Pared",
       "album": "",
@@ -127,7 +97,7 @@
       "durationSeconds": 344.166167
     },
     {
-      "id": 13,
+      "id": 10,
       "artist": "Orlando Netti",
       "title": "Clásico",
       "album": "",
@@ -137,7 +107,7 @@
       "durationSeconds": 241.085147
     },
     {
-      "id": 14,
+      "id": 11,
       "artist": "Orquesta Inmensidad",
       "title": "Ay! Que Amor",
       "album": "",
@@ -147,7 +117,7 @@
       "durationSeconds": 234.053333
     },
     {
-      "id": 15,
+      "id": 12,
       "artist": "Pedro Suárez Vértiz",
       "title": "Te Siento De Sólo Pensar",
       "album": "",
@@ -157,7 +127,7 @@
       "durationSeconds": 202.408344
     },
     {
-      "id": 16,
+      "id": 13,
       "artist": "Pet Shop Boys",
       "title": "Always On My Mind",
       "album": "",
@@ -167,7 +137,7 @@
       "durationSeconds": 234.906666
     },
     {
-      "id": 17,
+      "id": 14,
       "artist": "Q Lazzarus",
       "title": "Goodbye Horses",
       "album": "",
@@ -177,7 +147,7 @@
       "durationSeconds": 317.076
     },
     {
-      "id": 18,
+      "id": 15,
       "artist": "Simply Red",
       "title": "Sunrise",
       "album": "",
@@ -187,17 +157,7 @@
       "durationSeconds": 199.32
     },
     {
-      "id": 19,
-      "artist": "Soda Stereo",
-      "title": "Trátame Suavemente",
-      "album": "",
-      "audioUrl": "Soda%20Stereo%20-%20Tr%C3%A1tame%20Suavemente.m4a",
-      "sizeBytes": 3276968,
-      "mimeType": "audio/mp4",
-      "durationSeconds": 202.431564
-    },
-    {
-      "id": 20,
+      "id": 16,
       "artist": "Virus",
       "title": "Sin Disfraz",
       "album": "",
@@ -207,7 +167,7 @@
       "durationSeconds": 330.303854
     },
     {
-      "id": 21,
+      "id": 17,
       "artist": "Walter Murphy",
       "title": "A Fifth Of Beethoven",
       "album": "",
@@ -217,7 +177,7 @@
       "durationSeconds": 183.816
     },
     {
-      "id": 22,
+      "id": 18,
       "artist": "Willie Gonzalez",
       "title": "Hazme Olvidarla",
       "album": "",
