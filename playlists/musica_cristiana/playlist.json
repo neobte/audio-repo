@@ -3,8 +3,8 @@
   "title": "En espera...",
   "description": "En espera...",
   "coverUrl": "./assets/covers/night-drive.jpg",
-  "createdAt": "2026-11-23T16:46:34.005Z",
-  "totalTracks": 5,
+  "createdAt": "2026-11-23T19:18:00.661Z",
+  "totalTracks": 6,
   "tracks": [
     {
       "id": 1,
@@ -38,6 +38,16 @@
     },
     {
       "id": 4,
+      "artist": "José Luís Rodríguez",
+      "title": "Se Busca",
+      "album": "",
+      "audioUrl": "Jos%C3%A9%20Lu%C3%ADs%20Rodr%C3%ADguez%20-%20Se%20Busca.mp4",
+      "sizeBytes": 3796017,
+      "mimeType": "video/mp4",
+      "durationSeconds": 234.408004
+    },
+    {
+      "id": 5,
       "artist": "Juan Carlos Alvarado",
       "title": "El Poderoso De Israel",
       "album": "",
@@ -47,7 +57,7 @@
       "durationSeconds": 226.906666
     },
     {
-      "id": 5,
+      "id": 6,
       "artist": "Pastor Fernando García & Coro Menap",
       "title": "Ya Viene la Recompensa",
       "album": "",
