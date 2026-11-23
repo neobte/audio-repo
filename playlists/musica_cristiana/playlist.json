@@ -1,0 +1,60 @@
+{
+  "id": "playlist_001",
+  "title": "En espera...",
+  "description": "En espera...",
+  "coverUrl": "./assets/covers/night-drive.jpg",
+  "createdAt": "2026-11-23T16:46:34.005Z",
+  "totalTracks": 5,
+  "tracks": [
+    {
+      "id": 1,
+      "artist": "Coro Menap",
+      "title": "Yo he creído en un Poder que no se toca Medley de coros",
+      "album": "",
+      "audioUrl": "Coro%20Menap%20-%20Yo%20he%20cre%C3%ADdo%20en%20un%20Poder%20que%20no%20se%20toca%20Medley%20de%20coros.mp4",
+      "sizeBytes": 11948132,
+      "mimeType": "video/mp4",
+      "durationSeconds": 738.232018
+    },
+    {
+      "id": 2,
+      "artist": "Jesús Adrián Romero",
+      "title": "Me Dice Que Me Ama",
+      "album": "",
+      "audioUrl": "Jes%C3%BAs%20Adri%C3%A1n%20Romero%20-%20Me%20Dice%20Que%20Me%20Ama.mp4",
+      "sizeBytes": 3936843,
+      "mimeType": "video/mp4",
+      "durationSeconds": 243.205804
+    },
+    {
+      "id": 3,
+      "artist": "Jesús Adrián Romero",
+      "title": "Sumérgeme",
+      "album": "",
+      "audioUrl": "Jes%C3%BAs%20Adri%C3%A1n%20Romero%20-%20Sum%C3%A9rgeme.mp4",
+      "sizeBytes": 4990299,
+      "mimeType": "video/mp4",
+      "durationSeconds": 308.12
+    },
+    {
+      "id": 4,
+      "artist": "Juan Carlos Alvarado",
+      "title": "El Poderoso De Israel",
+      "album": "",
+      "audioUrl": "Juan%20Carlos%20Alvarado%20-%20El%20Poderoso%20De%20Israel.mp4",
+      "sizeBytes": 3675552,
+      "mimeType": "video/mp4",
+      "durationSeconds": 226.906666
+    },
+    {
+      "id": 5,
+      "artist": "Ya viene la recompensa",
+      "title": "Pastor Fernando García & Coro Menap",
+      "album": "",
+      "audioUrl": "Ya%20viene%20la%20recompensa%20-%20Pastor%20Fernando%20Garc%C3%ADa%20%26%20Coro%20Menap.mp4",
+      "sizeBytes": 5778164,
+      "mimeType": "video/mp4",
+      "durationSeconds": 356.983582
+    }
+  ]
+}
