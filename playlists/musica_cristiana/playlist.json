@@ -3,31 +3,41 @@
   "title": "Música Cristiana",
   "description": "En espera...",
   "coverUrl": "./assets/covers/night-drive.jpg",
-  "createdAt": "2026-11-23T19:18:00.661Z",
-  "totalTracks": 6,
+  "createdAt": "2026-11-28T02:41:18.547Z",
+  "totalTracks": 5,
   "tracks": [
     {
       "id": 1,
-      "artist": "Coro Menap",
-      "title": "Yo he creído en un Poder que no se toca Medley de coros",
+      "artist": "Cadena de coros",
+      "title": "Cuándo el pueblo alaba a Dios",
       "album": "",
-      "audioUrl": "Coro%20Menap%20-%20Yo%20he%20cre%C3%ADdo%20en%20un%20Poder%20que%20no%20se%20toca%20Medley%20de%20coros.mp4",
+      "audioUrl": "Cadena%20de%20coros%20-%20Cua%CC%81ndo%20el%20pueblo%20alaba%20a%20Dios.m4a",
+      "sizeBytes": 11246232,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 695.378979
+    },
+    {
+      "id": 2,
+      "artist": "Cadena de coros 2020",
+      "title": "Con mucha alegría y gozo, así se alaba a Dios",
+      "album": "",
+      "audioUrl": "Cadena%20de%20coros%202020%20-%20Con%20mucha%20alegr%C3%ADa%20y%20gozo%2C%20as%C3%AD%20se%20alaba%20a%20Dios.m4a",
+      "sizeBytes": 18283004,
+      "mimeType": "audio/mp4",
+      "durationSeconds": 1501.936984
+    },
+    {
+      "id": 3,
+      "artist": "Coro Menap",
+      "title": "Yo he creído en un poder que no se toca Medley de coros",
+      "album": "",
+      "audioUrl": "Coro%20Menap%20-%20Yo%20he%20cre%C3%ADdo%20en%20un%20poder%20que%20no%20se%20toca%20Medley%20de%20coros.mp4",
       "sizeBytes": 11948132,
       "mimeType": "video/mp4",
       "durationSeconds": 738.232018
     },
     {
-      "id": 2,
-      "artist": "Jesús Adrián Romero",
-      "title": "Me Dice Que Me Ama",
-      "album": "",
-      "audioUrl": "Jes%C3%BAs%20Adri%C3%A1n%20Romero%20-%20Me%20Dice%20Que%20Me%20Ama.mp4",
-      "sizeBytes": 3936843,
-      "mimeType": "video/mp4",
-      "durationSeconds": 243.205804
-    },
-    {
-      "id": 3,
+      "id": 4,
       "artist": "Jesús Adrián Romero",
       "title": "Sumérgeme",
       "album": "",
@@ -37,34 +47,14 @@
       "durationSeconds": 308.12
     },
     {
-      "id": 4,
+      "id": 5,
       "artist": "José Luís Rodríguez",
-      "title": "Se Busca",
+      "title": "Se busca",
       "album": "",
-      "audioUrl": "Jos%C3%A9%20Lu%C3%ADs%20Rodr%C3%ADguez%20-%20Se%20Busca.mp4",
+      "audioUrl": "Jos%C3%A9%20Lu%C3%ADs%20Rodr%C3%ADguez%20-%20Se%20busca.mp4",
       "sizeBytes": 3796017,
       "mimeType": "video/mp4",
       "durationSeconds": 234.408004
-    },
-    {
-      "id": 5,
-      "artist": "Juan Carlos Alvarado",
-      "title": "El Poderoso De Israel",
-      "album": "",
-      "audioUrl": "Juan%20Carlos%20Alvarado%20-%20El%20Poderoso%20De%20Israel.mp4",
-      "sizeBytes": 3675552,
-      "mimeType": "video/mp4",
-      "durationSeconds": 226.906666
-    },
-    {
-      "id": 6,
-      "artist": "Pastor Fernando García & Coro Menap",
-      "title": "Ya Viene la Recompensa",
-      "album": "",
-      "audioUrl": "Pastor%20Fernando%20Garc%C3%ADa%20%26%20Coro%20Menap%20-%20Ya%20Viene%20la%20Recompensa.mp4",
-      "sizeBytes": 5778164,
-      "mimeType": "video/mp4",
-      "durationSeconds": 356.983582
     }
   ]
 }
